@@ -1,5 +1,5 @@
 - 👋 Hi, I’m IMRAN ALI 
-- 👀 I’m interested Programming
+- 👀 I’m interesting in Programming
 - 🌱 I’m currently learning Maching learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..
